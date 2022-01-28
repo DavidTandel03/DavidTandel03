@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and AI
 - 🌱 I’m currently learning basic C programming
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me through mail
+- 📫 You can reach me through mail davidtandel2209@gmail.com
 
 <!---
 DavidTandel03/DavidTandel03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
